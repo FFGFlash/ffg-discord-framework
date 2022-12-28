@@ -3,6 +3,7 @@
   "version": "6.1.1",
   "description": "",
   "main": "./build/index.js",
+  "types": "./build/index.d.ts",
   "scripts": {
     "build": "npx tsc",
     "build:doc": "npx typedoc",
@@ -13,9 +14,18 @@
     "type": "git",
     "url": "git+https://github.com/FFGFlash/ffg-discord-framework.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "typescript",
+    "javascript",
+    "ts",
+    "js",
+    "bot",
+    "framework"
+  ],
+  "author": "Drake Taylor",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/FFGFlash/ffg-discord-framework/issues"
   },
