@@ -1,0 +1,26 @@
+{
+  "name": "ffg-discord-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FFGFlash/ffg-discord-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FFGFlash/ffg-discord-framework/issues"
+  },
+  "homepage": "https://github.com/FFGFlash/ffg-discord-framework#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
