@@ -10,7 +10,7 @@
         "skipLibCheck": true,
         "forceConsistentCasingInFileNames": true,
         "experimentalDecorators": true,
-        "outDir": "./dist",
+        "outDir": "./build",
         "sourceMap": true,
         "noImplicitAny": true,
         "declaration": true
