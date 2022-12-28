@@ -1,6 +1,6 @@
 {
   "name": "ffg-discord-framework",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "description": "",
   "main": "./build/index.js",
   "scripts": {
