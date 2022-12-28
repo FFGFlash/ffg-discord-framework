@@ -10,7 +10,10 @@
         "skipLibCheck": true,
         "forceConsistentCasingInFileNames": true,
         "experimentalDecorators": true,
-        "outDir": "./dist"
+        "outDir": "./dist",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "declaration": true
     },
     "include": [ "src/**/*" ]
 }
