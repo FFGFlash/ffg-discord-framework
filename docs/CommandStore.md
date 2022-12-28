@@ -124,7 +124,7 @@ ___
 
 #### Inherited from
 
-Array.\_\_@species@176
+Array.\_\_@species@252
 
 #### Defined in
 
@@ -144,7 +144,7 @@ Iterator
 
 #### Inherited from
 
-Array.\_\_@iterator@109
+Array.\_\_@iterator@33
 
 #### Defined in
 
@@ -175,7 +175,7 @@ when they will be absent when used in a 'with' statement.
 
 #### Inherited from
 
-Array.\_\_@unscopables@111
+Array.\_\_@unscopables@35
 
 #### Defined in
 
@@ -193,7 +193,7 @@ Used to add commands to the command store
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `commandOrCommandClass` | [`ICommand`](../wiki/ICommand) \| [`CommandConstructor`](../wiki/Exports#commandconstructor) | Either a command instance or class |
+| `commandOrCommandClass` | [`CommandConstructor`](../wiki/Exports#commandconstructor) \| [`ICommand`](../wiki/ICommand) | Either a command instance or class |
 
 #### Returns
 
@@ -203,7 +203,7 @@ The newly added command
 
 #### Defined in
 
-[src/commands.ts:91](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L91)
+[src/commands.ts:91](https://github.com/FFGFlash/ffg-discord-framework/blob/bd3dc5f/src/commands.ts#L91)
 
 ___
 
@@ -663,7 +663,7 @@ Get a command by name, alias, command instance or class from the command store
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `nameOrAliasOrCommandOrCommandClass` | `string` \| [`ICommand`](../wiki/ICommand) \| [`CommandConstructor`](../wiki/Exports#commandconstructor) | Either a string, command instance or class |
+| `nameOrAliasOrCommandOrCommandClass` | `string` \| [`CommandConstructor`](../wiki/Exports#commandconstructor) \| [`ICommand`](../wiki/ICommand) | Either a string, command instance or class |
 
 #### Returns
 
@@ -673,7 +673,7 @@ Either null or the command instance inside the command store
 
 #### Defined in
 
-[src/commands.ts:69](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L69)
+[src/commands.ts:69](https://github.com/FFGFlash/ffg-discord-framework/blob/bd3dc5f/src/commands.ts#L69)
 
 ___
 
@@ -687,7 +687,7 @@ Checks if the command store has a certain command by the given name, alias, comm
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `nameOrAliasOrCommandOrCommandConstructor` | `string` \| [`ICommand`](../wiki/ICommand) \| [`CommandConstructor`](../wiki/Exports#commandconstructor) | Either a string, command instance or class |
+| `nameOrAliasOrCommandOrCommandConstructor` | `string` \| [`CommandConstructor`](../wiki/Exports#commandconstructor) \| [`ICommand`](../wiki/ICommand) | Either a string, command instance or class |
 
 #### Returns
 
@@ -697,7 +697,7 @@ Whether or not the command is inside the command store
 
 #### Defined in
 
-[src/commands.ts:49](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L49)
+[src/commands.ts:49](https://github.com/FFGFlash/ffg-discord-framework/blob/bd3dc5f/src/commands.ts#L49)
 
 ___
 
@@ -882,7 +882,7 @@ List of commands
 
 #### Defined in
 
-[src/commands.ts:107](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L107)
+[src/commands.ts:107](https://github.com/FFGFlash/ffg-discord-framework/blob/bd3dc5f/src/commands.ts#L107)
 
 ___
 
@@ -1095,7 +1095,7 @@ Removes a command from the command store by the given name, alias, command insta
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `nameOrAliasOrCommandOrCommandClass` | `string` \| [`ICommand`](../wiki/ICommand) \| [`CommandConstructor`](../wiki/Exports#commandconstructor) | Either a string, command instance or class |
+| `nameOrAliasOrCommandOrCommandClass` | `string` \| [`CommandConstructor`](../wiki/Exports#commandconstructor) \| [`ICommand`](../wiki/ICommand) | Either a string, command instance or class |
 
 #### Returns
 
@@ -1105,7 +1105,7 @@ Either null or the command removed from the command store
 
 #### Defined in
 
-[src/commands.ts:58](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L58)
+[src/commands.ts:58](https://github.com/FFGFlash/ffg-discord-framework/blob/bd3dc5f/src/commands.ts#L58)
 
 ___
 
