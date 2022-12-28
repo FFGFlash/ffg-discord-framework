@@ -14,4 +14,4 @@
 
 #### Defined in
 
-[src/commands.ts:37](https://github.com/FFGFlash/ffg-discord-framework/blob/5b28bb1/src/commands.ts#L37)
+[src/commands.ts:37](https://github.com/FFGFlash/ffg-discord-framework/blob/13ef715/src/commands.ts#L37)
