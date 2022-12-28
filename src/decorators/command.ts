@@ -1,5 +1,9 @@
-import { ICommandConstructor, getCommands } from "../commands";
+import { CommandConstructor, getCommands } from "../commands";
 
-export default function Command(commandConstructor: ICommandConstructor) {
+/**
+ * Command Decorator Function
+ * @param commandConstructor - The class to decorate
+ */
+export default function Command(commandConstructor: CommandConstructor) {
     getCommands().add(new commandConstructor())
 }
