@@ -27,8 +27,22 @@ export class Client extends BaseClient {
         console.log(`Logged in as ${this.user?.tag}`)
     }
 
-    private message(message: Message) {
-        // TODO: Handle Command
+    private async message(message: Message) {
+        if (
+            message.author.bot ||
+            !message.content.startsWith(this.prefix)
+        ) return
+        const args = message.content.slice(this.prefix.length).trim().split(' ')
+        const nameOrAlias = args.shift()!.toLowerCase()
+        if (!nameOrAlias || !this.commands.has(nameOrAlias)) return
+        const command = this.commands.get(nameOrAlias)!
+        if (
+            command.guildOnly && !message.guild ||
+            command.permissions && message.member && !message.member.permissions.has(command.permissions)
+        ) return
+        const response = await command.execute(message, ...args)
+        if (!response || this.cleanupAfter < 0) return
+        setTimeout(() => response.delete(), this.cleanupAfter)
     }
 }
 
