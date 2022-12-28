@@ -49,7 +49,7 @@ Renames and re-exports [Client](../wiki/Client)
 
 #### Defined in
 
-[src/commands.ts:34](https://github.com/FFGFlash/ffg-discord-framework/blob/fb86e02/src/commands.ts#L34)
+[src/commands.ts:34](https://github.com/FFGFlash/ffg-discord-framework/blob/216146b/src/commands.ts#L34)
 
 ## Functions
 
@@ -71,7 +71,7 @@ Command Decorator Function
 
 #### Defined in
 
-[src/decorators/command.ts:7](https://github.com/FFGFlash/ffg-discord-framework/blob/fb86e02/src/decorators/command.ts#L7)
+[src/decorators/command.ts:7](https://github.com/FFGFlash/ffg-discord-framework/blob/216146b/src/decorators/command.ts#L7)
 
 ___
 
@@ -89,4 +89,4 @@ The global command store
 
 #### Defined in
 
-[src/commands.ts:117](https://github.com/FFGFlash/ffg-discord-framework/blob/fb86e02/src/commands.ts#L117)
+[src/commands.ts:117](https://github.com/FFGFlash/ffg-discord-framework/blob/216146b/src/commands.ts#L117)

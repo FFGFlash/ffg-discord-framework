@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[src/commands.ts:17](https://github.com/FFGFlash/ffg-discord-framework/blob/fb86e02/src/commands.ts#L17)
+[src/commands.ts:17](https://github.com/FFGFlash/ffg-discord-framework/blob/216146b/src/commands.ts#L17)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[src/commands.ts:16](https://github.com/FFGFlash/ffg-discord-framework/blob/fb86e02/src/commands.ts#L16)
+[src/commands.ts:16](https://github.com/FFGFlash/ffg-discord-framework/blob/216146b/src/commands.ts#L16)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 #### Defined in
 
-[src/commands.ts:20](https://github.com/FFGFlash/ffg-discord-framework/blob/fb86e02/src/commands.ts#L20)
+[src/commands.ts:20](https://github.com/FFGFlash/ffg-discord-framework/blob/216146b/src/commands.ts#L20)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/commands.ts:18](https://github.com/FFGFlash/ffg-discord-framework/blob/fb86e02/src/commands.ts#L18)
+[src/commands.ts:18](https://github.com/FFGFlash/ffg-discord-framework/blob/216146b/src/commands.ts#L18)
 
 ___
 
@@ -58,4 +58,4 @@ ___
 
 #### Defined in
 
-[src/commands.ts:19](https://github.com/FFGFlash/ffg-discord-framework/blob/fb86e02/src/commands.ts#L19)
+[src/commands.ts:19](https://github.com/FFGFlash/ffg-discord-framework/blob/216146b/src/commands.ts#L19)
