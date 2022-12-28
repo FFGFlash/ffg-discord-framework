@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/commands.ts:25](https://github.com/FFGFlash/ffg-discord-framework/blob/5b6d4ab/src/commands.ts#L25)
+[src/commands.ts:25](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L25)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/commands.ts:27](https://github.com/FFGFlash/ffg-discord-framework/blob/5b6d4ab/src/commands.ts#L27)
+[src/commands.ts:27](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L27)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/commands.ts:26](https://github.com/FFGFlash/ffg-discord-framework/blob/5b6d4ab/src/commands.ts#L26)
+[src/commands.ts:26](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L26)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/commands.ts:29](https://github.com/FFGFlash/ffg-discord-framework/blob/5b6d4ab/src/commands.ts#L29)
+[src/commands.ts:29](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L29)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/commands.ts:24](https://github.com/FFGFlash/ffg-discord-framework/blob/5b6d4ab/src/commands.ts#L24)
+[src/commands.ts:24](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L24)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/commands.ts:28](https://github.com/FFGFlash/ffg-discord-framework/blob/5b6d4ab/src/commands.ts#L28)
+[src/commands.ts:28](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L28)
 
 ## Methods
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[src/commands.ts:31](https://github.com/FFGFlash/ffg-discord-framework/blob/5b6d4ab/src/commands.ts#L31)
+[src/commands.ts:31](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L31)
 
 ___
 
@@ -115,4 +115,4 @@ ___
 
 #### Defined in
 
-[src/commands.ts:30](https://github.com/FFGFlash/ffg-discord-framework/blob/5b6d4ab/src/commands.ts#L30)
+[src/commands.ts:30](https://github.com/FFGFlash/ffg-discord-framework/blob/53b9811/src/commands.ts#L30)
