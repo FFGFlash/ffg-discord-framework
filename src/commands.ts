@@ -70,7 +70,7 @@ export class CommandStore extends Array<ICommand> {
         if (typeof nameOrAliasOrCommandOrCommandClass === 'string') {
             return this.find(c => (
                 c.name === nameOrAliasOrCommandOrCommandClass ||
-                c.aliases?.indexOf(nameOrAliasOrCommandOrCommandClass) !== -1
+                c.aliases && c.aliases.indexOf(nameOrAliasOrCommandOrCommandClass) !== -1
             )) || null
         }
 
