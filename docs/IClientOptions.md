@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[src/client.ts:7](https://github.com/FFGFlash/ffg-discord-framework/blob/bd3dc5f/src/client.ts#L7)
+[src/client.ts:7](https://github.com/FFGFlash/ffg-discord-framework/blob/5b28bb1/src/client.ts#L7)
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[src/client.ts:6](https://github.com/FFGFlash/ffg-discord-framework/blob/bd3dc5f/src/client.ts#L6)
+[src/client.ts:6](https://github.com/FFGFlash/ffg-discord-framework/blob/5b28bb1/src/client.ts#L6)
 
 ___
 
