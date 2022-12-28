@@ -119,3 +119,5 @@ export function getCommands() {
     if (!store.commands) store.commands = new CommandStore()
     return store.commands
 }
+
+export * as default from "./commands/index"
