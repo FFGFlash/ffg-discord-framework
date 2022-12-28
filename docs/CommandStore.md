@@ -203,7 +203,7 @@ The newly added command
 
 #### Defined in
 
-[src/commands.ts:91](https://github.com/FFGFlash/ffg-discord-framework/blob/0dc6ab4/src/commands.ts#L91)
+[src/commands.ts:91](https://github.com/FFGFlash/ffg-discord-framework/blob/d65ab1f/src/commands.ts#L91)
 
 ___
 
@@ -673,7 +673,7 @@ Either null or the command instance inside the command store
 
 #### Defined in
 
-[src/commands.ts:69](https://github.com/FFGFlash/ffg-discord-framework/blob/0dc6ab4/src/commands.ts#L69)
+[src/commands.ts:69](https://github.com/FFGFlash/ffg-discord-framework/blob/d65ab1f/src/commands.ts#L69)
 
 ___
 
@@ -697,7 +697,7 @@ Whether or not the command is inside the command store
 
 #### Defined in
 
-[src/commands.ts:49](https://github.com/FFGFlash/ffg-discord-framework/blob/0dc6ab4/src/commands.ts#L49)
+[src/commands.ts:49](https://github.com/FFGFlash/ffg-discord-framework/blob/d65ab1f/src/commands.ts#L49)
 
 ___
 
@@ -882,7 +882,7 @@ List of commands
 
 #### Defined in
 
-[src/commands.ts:107](https://github.com/FFGFlash/ffg-discord-framework/blob/0dc6ab4/src/commands.ts#L107)
+[src/commands.ts:107](https://github.com/FFGFlash/ffg-discord-framework/blob/d65ab1f/src/commands.ts#L107)
 
 ___
 
@@ -1105,7 +1105,7 @@ Either null or the command removed from the command store
 
 #### Defined in
 
-[src/commands.ts:58](https://github.com/FFGFlash/ffg-discord-framework/blob/0dc6ab4/src/commands.ts#L58)
+[src/commands.ts:58](https://github.com/FFGFlash/ffg-discord-framework/blob/d65ab1f/src/commands.ts#L58)
 
 ___
 

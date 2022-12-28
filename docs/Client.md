@@ -98,7 +98,7 @@ BaseClient.constructor
 
 #### Defined in
 
-[src/client.ts:16](https://github.com/FFGFlash/ffg-discord-framework/blob/0dc6ab4/src/client.ts#L16)
+[src/client.ts:16](https://github.com/FFGFlash/ffg-discord-framework/blob/d65ab1f/src/client.ts#L16)
 
 ## Properties
 
@@ -136,7 +136,7 @@ ___
 
 #### Defined in
 
-[src/client.ts:14](https://github.com/FFGFlash/ffg-discord-framework/blob/0dc6ab4/src/client.ts#L14)
+[src/client.ts:14](https://github.com/FFGFlash/ffg-discord-framework/blob/d65ab1f/src/client.ts#L14)
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 #### Defined in
 
-[src/client.ts:12](https://github.com/FFGFlash/ffg-discord-framework/blob/0dc6ab4/src/client.ts#L12)
+[src/client.ts:12](https://github.com/FFGFlash/ffg-discord-framework/blob/d65ab1f/src/client.ts#L12)
 
 ___
 
@@ -184,7 +184,7 @@ ___
 
 #### Defined in
 
-[src/client.ts:13](https://github.com/FFGFlash/ffg-discord-framework/blob/0dc6ab4/src/client.ts#L13)
+[src/client.ts:13](https://github.com/FFGFlash/ffg-discord-framework/blob/d65ab1f/src/client.ts#L13)
 
 ___
 
@@ -954,7 +954,7 @@ ___
 
 #### Defined in
 
-[src/client.ts:30](https://github.com/FFGFlash/ffg-discord-framework/blob/0dc6ab4/src/client.ts#L30)
+[src/client.ts:30](https://github.com/FFGFlash/ffg-discord-framework/blob/d65ab1f/src/client.ts#L30)
 
 ___
 
@@ -1279,7 +1279,7 @@ ___
 
 #### Defined in
 
-[src/client.ts:26](https://github.com/FFGFlash/ffg-discord-framework/blob/0dc6ab4/src/client.ts#L26)
+[src/client.ts:26](https://github.com/FFGFlash/ffg-discord-framework/blob/d65ab1f/src/client.ts#L26)
 
 ___
 
