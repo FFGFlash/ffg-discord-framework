@@ -20,7 +20,7 @@ export class Client extends BaseClient {
         this.cleanupAfter = (typeof(cleanupAfter) === "number" ? (cleanupAfter) : (cleanupAfter ? 5000 : -1))
 
         this.on("ready", this.ready)
-        this.on("message", this.message)
+        this.on("messageCreate", this.message)
     }
 
     private ready() {
